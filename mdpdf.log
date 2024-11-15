@@ -1,137 +1,137 @@
-    INFO: 2024-11-15 07:58:37,431:               log.py:   20: Logging to /mnt/WorkingDrive/pdfqns/mdpdf.log
-   DEBUG: 2024-11-15 07:58:37,431:               cli.py:  103: formatted_questions.md
-    INFO: 2024-11-15 07:58:37,432:         converter.py:   14: formatted_questions.md
-   DEBUG: 2024-11-15 07:58:37,435:      pdf_renderer.py:  470: printSegment: Medical Entrance Examination Questions
-   DEBUG: 2024-11-15 07:58:37,438:      pdf_renderer.py:  470: printSegment: Q1. Bone marrow density 2 SD below the reference level is labeled as:
-   DEBUG: 2024-11-15 07:58:37,442:      pdf_renderer.py:  470: printSegment: a. Normal level
-   DEBUG: 2024-11-15 07:58:37,445:      pdf_renderer.py:  470: printSegment: b. Low bone mass
-   DEBUG: 2024-11-15 07:58:37,446:      pdf_renderer.py:  470: printSegment: c. Osteoporosis
-   DEBUG: 2024-11-15 07:58:37,447:      pdf_renderer.py:  470: printSegment: d. Severe osteoporosis
-   DEBUG: 2024-11-15 07:58:37,448:      pdf_renderer.py:  470: printSegment: Q2. Which of the following joint is rarely involved in SLE?
-   DEBUG: 2024-11-15 07:58:37,450:      pdf_renderer.py:  470: printSegment: a. PIP joints
-   DEBUG: 2024-11-15 07:58:37,451:      pdf_renderer.py:  470: printSegment: b. Carpal joints
-   DEBUG: 2024-11-15 07:58:37,452:      pdf_renderer.py:  470: printSegment: c. Knee joints
-   DEBUG: 2024-11-15 07:58:37,453:      pdf_renderer.py:  470: printSegment: d. Sacroiliac joints
-   DEBUG: 2024-11-15 07:58:37,453:      pdf_renderer.py:  470: printSegment: Q3. The term 
-   DEBUG: 2024-11-15 07:58:37,454:      pdf_renderer.py:  470: printSegment: "
-   DEBUG: 2024-11-15 07:58:37,455:      pdf_renderer.py:  470: printSegment: Large vessels
-   DEBUG: 2024-11-15 07:58:37,455:      pdf_renderer.py:  470: printSegment: "
-   DEBUG: 2024-11-15 07:58:37,456:      pdf_renderer.py:  470: printSegment:  in large vessel vasculitis indicates:
-   DEBUG: 2024-11-15 07:58:37,457:      pdf_renderer.py:  470: printSegment: a. Arteries arising from arch of aorta
-   DEBUG: 2024-11-15 07:58:37,458:      pdf_renderer.py:  470: printSegment: b. Arteries directly arising from any part of aorta
-   DEBUG: 2024-11-15 07:58:37,459:      pdf_renderer.py:  470: printSegment: c. Arteries of size (diameter) more than 5 cm
-   DEBUG: 2024-11-15 07:58:37,460:      pdf_renderer.py:  470: printSegment: d. Arteries supplying the main viscera
-   DEBUG: 2024-11-15 07:58:37,461:      pdf_renderer.py:  470: printSegment: Q4. The most commonly used drug in sarcoidosis is:
-   DEBUG: 2024-11-15 07:58:37,462:      pdf_renderer.py:  470: printSegment: a. Methotrexate
-   DEBUG: 2024-11-15 07:58:37,462:      pdf_renderer.py:  470: printSegment: b. Azathioprine
-   DEBUG: 2024-11-15 07:58:37,463:      pdf_renderer.py:  470: printSegment: c. Steroid
-   DEBUG: 2024-11-15 07:58:37,464:      pdf_renderer.py:  470: printSegment: d. NSAIDS
-   DEBUG: 2024-11-15 07:58:37,564:      pdf_renderer.py:  470: printSegment: Q5. A 45 years old male presented with jaundice and ascites. On evaluation, his serum bilirubin was 2.1
-   DEBUG: 2024-11-15 07:58:37,630:      pdf_renderer.py:  470: printSegment: mg/dl, serum 5. A 45 years old male presented with jaundice and ascites. On evaluation, his serum bilirubin
-   DEBUG: 2024-11-15 07:58:37,667:      pdf_renderer.py:  470: printSegment: was 2.1 mg/dl, serum 5. A 45 years old male presented with jaundice and ascites. On evaluation, his serum
-   DEBUG: 2024-11-15 07:58:37,684:      pdf_renderer.py:  470: printSegment: bilirubin was 2.1 mg/dl, serum albumin was 3.4 g/dl, INR was 1.8,had controlled albumin was 3.4 g/dl, INR
-   DEBUG: 2024-11-15 07:58:37,688:      pdf_renderer.py:  470: printSegment: was 1.8,had controlled ascites and minimal HE. His Child Pugh class would beascites and minimal HE. His
-   DEBUG: 2024-11-15 07:58:37,689:      pdf_renderer.py:  470: printSegment: Child Pugh class would be
-   DEBUG: 2024-11-15 07:58:37,689:      pdf_renderer.py:  470: printSegment: a. A
-   DEBUG: 2024-11-15 07:58:37,690:      pdf_renderer.py:  470: printSegment: b. B
-   DEBUG: 2024-11-15 07:58:37,691:      pdf_renderer.py:  470: printSegment: c. C
-   DEBUG: 2024-11-15 07:58:37,693:      pdf_renderer.py:  470: printSegment: d. Above data are insufficient to classifyAbove data are
-   DEBUG: 2024-11-15 07:58:37,694:      pdf_renderer.py:  470: printSegment: insufficient to classify
-   DEBUG: 2024-11-15 07:58:37,695:      pdf_renderer.py:  470: printSegment: Q6. Half life of serum albumin is:
-   DEBUG: 2024-11-15 07:58:37,696:      pdf_renderer.py:  470: printSegment: a. 1-3 days
-   DEBUG: 2024-11-15 07:58:37,697:      pdf_renderer.py:  470: printSegment: b. 3-7 days
-   DEBUG: 2024-11-15 07:58:37,698:      pdf_renderer.py:  470: printSegment: c. 7-14 days
-   DEBUG: 2024-11-15 07:58:37,699:      pdf_renderer.py:  470: printSegment: d. 14-21 days
-   DEBUG: 2024-11-15 07:58:37,703:      pdf_renderer.py:  470: printSegment: Q7. Which of the following micronutrient potentiates action of insulin?7. Which of the following
-   DEBUG: 2024-11-15 07:58:37,704:      pdf_renderer.py:  470: printSegment: micronutrient potentiates action of insulin?
-   DEBUG: 2024-11-15 07:58:37,705:      pdf_renderer.py:  470: printSegment: a. Zinc
-   DEBUG: 2024-11-15 07:58:37,705:      pdf_renderer.py:  470: printSegment: b. Chromium
-   DEBUG: 2024-11-15 07:58:37,706:      pdf_renderer.py:  470: printSegment: c. Magnesium
-   DEBUG: 2024-11-15 07:58:37,707:      pdf_renderer.py:  470: printSegment: d. Calcium
-   DEBUG: 2024-11-15 07:58:37,709:      pdf_renderer.py:  470: printSegment: Q8. Magenta tongue is seen due to the deficiency of:tongue is seen due to the deficiency of:
-   DEBUG: 2024-11-15 07:58:37,710:      pdf_renderer.py:  470: printSegment: a. Thiamine
-   DEBUG: 2024-11-15 07:58:37,711:      pdf_renderer.py:  470: printSegment: b. Riboflavin
-   DEBUG: 2024-11-15 07:58:37,712:      pdf_renderer.py:  470: printSegment: c. Niacin
-   DEBUG: 2024-11-15 07:58:37,712:      pdf_renderer.py:  470: printSegment: d. Pyridoxine
-   DEBUG: 2024-11-15 07:58:37,725:      pdf_renderer.py:  470: printSegment: Q9. The score system used to estimate the risk of ischemic stroke in the first two days af9. The score system
-   DEBUG: 2024-11-15 07:58:37,726:      pdf_renderer.py:  470: printSegment: used to estimate the risk of ischemic stroke in the first two days after TIA is:ter TIA is:
-   DEBUG: 2024-11-15 07:58:37,727:      pdf_renderer.py:  470: printSegment: a. NIHSS
-   DEBUG: 2024-11-15 07:58:37,728:      pdf_renderer.py:  470: printSegment: b. CHA2DS2-VASc
-   DEBUG: 2024-11-15 07:58:37,728:      pdf_renderer.py:  470: printSegment: c. HAS-BLED
-   DEBUG: 2024-11-15 07:58:37,729:      pdf_renderer.py:  470: printSegment: d. ABCD2
-   DEBUG: 2024-11-15 07:58:37,730:      pdf_renderer.py:  470: printSegment: Q10. Diastolic murmur heard in apex in a case of aortic regurgitation is due to:
-   DEBUG: 2024-11-15 07:58:37,731:      pdf_renderer.py:  470: printSegment: a. Carey coombs murmur
-   DEBUG: 2024-11-15 07:58:37,732:      pdf_renderer.py:  470: printSegment: b. Gallavardin phenomenon
-   DEBUG: 2024-11-15 07:58:37,732:      pdf_renderer.py:  470: printSegment: c. Austin flint murmur
-   DEBUG: 2024-11-15 07:58:37,733:      pdf_renderer.py:  470: printSegment: d. Dock's murmur
-   DEBUG: 2024-11-15 07:58:37,734:      pdf_renderer.py:  470: printSegment: Q11. Which of the following electrolyte disorder causes atrioventricular block?
-   DEBUG: 2024-11-15 07:58:37,735:      pdf_renderer.py:  470: printSegment: a. Hypokalemia
-   DEBUG: 2024-11-15 07:58:37,736:      pdf_renderer.py:  470: printSegment: b. Hypernatremia
-   DEBUG: 2024-11-15 07:58:37,737:      pdf_renderer.py:  470: printSegment: c. Hypomagnesemia
-   DEBUG: 2024-11-15 07:58:37,737:      pdf_renderer.py:  470: printSegment: d. Hypermagnesemia
-   DEBUG: 2024-11-15 07:58:37,740:      pdf_renderer.py:  470: printSegment: Q12. Which of the following is not included in family of PSVT?12. Which of the following is not included in
-   DEBUG: 2024-11-15 07:58:37,741:      pdf_renderer.py:  470: printSegment: family of PSVT?
-   DEBUG: 2024-11-15 07:58:37,742:      pdf_renderer.py:  470: printSegment: a. AV node reentry
-   DEBUG: 2024-11-15 07:58:37,744:      pdf_renderer.py:  470: printSegment: b. AV node reentry using accessory pathwayAV node reentry using
-   DEBUG: 2024-11-15 07:58:37,744:      pdf_renderer.py:  470: printSegment: accessory pathway
-   DEBUG: 2024-11-15 07:58:37,745:      pdf_renderer.py:  470: printSegment: c. Atrial tachycardia
-   DEBUG: 2024-11-15 07:58:37,746:      pdf_renderer.py:  470: printSegment: d. Inappropriate sinus tachycardia
-   DEBUG: 2024-11-15 07:58:37,768:      pdf_renderer.py:  470: printSegment: Q13. What happens to blood pressure and heart rate during recovery phase of Valsalva maneuver?13. What
-   DEBUG: 2024-11-15 07:58:37,776:      pdf_renderer.py:  470: printSegment: happens to blood pressure and heart rate during recovery phase of Valsalva maneuver? 13. What happens to
-   DEBUG: 2024-11-15 07:58:37,777:      pdf_renderer.py:  470: printSegment: blood pressure and heart rate during recovery phase of Valsalva maneuver?
-   DEBUG: 2024-11-15 07:58:37,778:      pdf_renderer.py:  470: printSegment: a. ↑BP,↓HR
-   DEBUG: 2024-11-15 07:58:37,790:      pdf_renderer.py:  470: printSegment: b. ↓BP,↑HR
-   DEBUG: 2024-11-15 07:58:37,791:      pdf_renderer.py:  470: printSegment: c. Both BP and HR ↑
-   DEBUG: 2024-11-15 07:58:37,792:      pdf_renderer.py:  470: printSegment: d. Both BP and HR ↓
-   DEBUG: 2024-11-15 07:58:37,793:      pdf_renderer.py:  470: printSegment: Q14. Which of the following is not true about tetanus?14. Which of the following is not true about tetanus?
-   DEBUG: 2024-11-15 07:58:37,796:      pdf_renderer.py:  470: printSegment: a. It is completely preventable by vaccinationIt is completely
-   DEBUG: 2024-11-15 07:58:37,796:      pdf_renderer.py:  470: printSegment: preventable by vaccination
-   DEBUG: 2024-11-15 07:58:37,800:      pdf_renderer.py:  470: printSegment: b. Puncture entry wound is found in every casePuncture entry wound
-   DEBUG: 2024-11-15 07:58:37,801:      pdf_renderer.py:  470: printSegment: is found in every cases of tetanus
-   DEBUG: 2024-11-15 07:58:37,805:      pdf_renderer.py:  470: printSegment: c. Deeper infections are associated with more severe diseaseDeeper
-   DEBUG: 2024-11-15 07:58:37,806:      pdf_renderer.py:  470: printSegment: infections are associated with more severe disease
-   DEBUG: 2024-11-15 07:58:37,812:      pdf_renderer.py:  470: printSegment: d. Persons more than 60 years of age are at greater risk of
-   DEBUG: 2024-11-15 07:58:37,814:      pdf_renderer.py:  470: printSegment: tetanusPersons more than 60 years of age are at greater risk of
-   DEBUG: 2024-11-15 07:58:37,815:      pdf_renderer.py:  470: printSegment: tetanus
-   DEBUG: 2024-11-15 07:58:37,817:      pdf_renderer.py:  470: printSegment: Q15. Adult intestinal colonization botulism is associated with15. Adult intestinal colonization botulism is
-   DEBUG: 2024-11-15 07:58:37,818:      pdf_renderer.py:  470: printSegment: associated with
-   DEBUG: 2024-11-15 07:58:37,819:      pdf_renderer.py:  470: printSegment: a. Food borne
-   DEBUG: 2024-11-15 07:58:37,820:      pdf_renderer.py:  470: printSegment: b. Traumatic wound contamination
-   DEBUG: 2024-11-15 07:58:37,820:      pdf_renderer.py:  470: printSegment: c. Iatrogenic
-   DEBUG: 2024-11-15 07:58:37,821:      pdf_renderer.py:  470: printSegment: d. Antibiotic use
-   DEBUG: 2024-11-15 07:58:37,956:      pdf_renderer.py:  470: printSegment: Q16. A 9 year boy presented with the features of truncal and limb ataxia, dysarthria, myoclonic jerks,
-   DEBUG: 2024-11-15 07:58:38,052:      pdf_renderer.py:  470: printSegment: areflexia, extensor 16. A 9 year boy presented with the features of truncal and limb ataxia, dysarthria,
-   DEBUG: 2024-11-15 07:58:38,115:      pdf_renderer.py:  470: printSegment: myoclonic jerks, areflexia, extensor 16. A 9 year boy presented with the features of truncal and limb ataxia,
-   DEBUG: 2024-11-15 07:58:38,153:      pdf_renderer.py:  470: printSegment: dysarthria, myoclonic jerks, areflexia, extensor plantar response and distal sensory deficit. He had repeated
-   DEBUG: 2024-11-15 07:58:38,169:      pdf_renderer.py:  470: printSegment: history of pneuplantar response and distal sensory deficit. He had repeated history of pneumonia in the past.
-   DEBUG: 2024-11-15 07:58:38,173:      pdf_renderer.py:  470: printSegment: He also has generalized monia in the past. He also has generalized lymphadenopathy. The probable diagnosis
-   DEBUG: 2024-11-15 07:58:38,174:      pdf_renderer.py:  470: printSegment: islymphadenopathy. The probable diagnosis is
-   DEBUG: 2024-11-15 07:58:38,175:      pdf_renderer.py:  470: printSegment: a. Spinocerebellar ataxia
-   DEBUG: 2024-11-15 07:58:38,176:      pdf_renderer.py:  470: printSegment: b. Friedreich's ataxia
-   DEBUG: 2024-11-15 07:58:38,177:      pdf_renderer.py:  470: printSegment: c. Ataxia telangiectasia
-   DEBUG: 2024-11-15 07:58:38,177:      pdf_renderer.py:  470: printSegment: d. Mitochondrial ataxia
-   DEBUG: 2024-11-15 07:58:38,178:      pdf_renderer.py:  470: printSegment: Q17. The diagnosis of acromegaly is confirmed by
-   DEBUG: 2024-11-15 07:58:38,179:      pdf_renderer.py:  470: printSegment: a. Measurement of random Growth hormone level
-   DEBUG: 2024-11-15 07:58:38,180:      pdf_renderer.py:  470: printSegment: b. IGF-I level
-   DEBUG: 2024-11-15 07:58:38,181:      pdf_renderer.py:  470: printSegment: c. MRI pituitary
-   DEBUG: 2024-11-15 07:58:38,182:      pdf_renderer.py:  470: printSegment: d. Oral glucose tolerance test
-   DEBUG: 2024-11-15 07:58:38,183:      pdf_renderer.py:  470: printSegment: Q18. Differentiating the ACTH dependent Cushing
-   DEBUG: 2024-11-15 07:58:38,184:      pdf_renderer.py:  470: printSegment: '
-   DEBUG: 2024-11-15 07:58:38,190:      pdf_renderer.py:  470: printSegment: s syndrome, which of the following feature is more
-   DEBUG: 2024-11-15 07:58:38,191:      pdf_renderer.py:  470: printSegment: prominently seen in ACTH secreting pituitary tumor as compared to ectopic ACTH secretion
-   DEBUG: 2024-11-15 07:58:38,192:      pdf_renderer.py:  470: printSegment: a. Rapid onset
-   DEBUG: 2024-11-15 07:58:38,193:      pdf_renderer.py:  470: printSegment: b. Pigmentation
-   DEBUG: 2024-11-15 07:58:38,194:      pdf_renderer.py:  470: printSegment: c. Severe myopathy
-   DEBUG: 2024-11-15 07:58:38,194:      pdf_renderer.py:  470: printSegment: d. None of the above
-   DEBUG: 2024-11-15 07:58:38,195:      pdf_renderer.py:  470: printSegment: Q19. Poor host immune reaction denotes:
-   DEBUG: 2024-11-15 07:58:38,196:      pdf_renderer.py:  470: printSegment: a. Tuberculoid leprosy
-   DEBUG: 2024-11-15 07:58:38,197:      pdf_renderer.py:  470: printSegment: b. Lepromatous leprosy
-   DEBUG: 2024-11-15 07:58:38,198:      pdf_renderer.py:  470: printSegment: c. Borderline leprosy
-   DEBUG: 2024-11-15 07:58:38,199:      pdf_renderer.py:  470: printSegment: d. Drug resistant leprosy
-   DEBUG: 2024-11-15 07:58:38,202:      pdf_renderer.py:  470: printSegment: Q20. Harmonic scalpel uses which of the following to cut tissues?20. Harmonic scalpel uses which of the
-   DEBUG: 2024-11-15 07:58:38,203:      pdf_renderer.py:  470: printSegment: following to cut tissues?
-   DEBUG: 2024-11-15 07:58:38,204:      pdf_renderer.py:  470: printSegment: a. Cold
-   DEBUG: 2024-11-15 07:58:38,205:      pdf_renderer.py:  470: printSegment: b. Heat
-   DEBUG: 2024-11-15 07:58:38,205:      pdf_renderer.py:  470: printSegment: c. Ultrasound
-   DEBUG: 2024-11-15 07:58:38,206:      pdf_renderer.py:  470: printSegment: d. Fire
-   DEBUG: 2024-11-15 07:58:38,207:      pdf_renderer.py:   53: 0, [1, 'Medical Entrance Examination Questions', 1, 68.0]
+    INFO: 2024-11-15 08:16:27,849:               log.py:   20: Logging to /mnt/WorkingDrive/pdfqns/mdpdf.log
+   DEBUG: 2024-11-15 08:16:27,849:               cli.py:  103: formatted_questions.md
+    INFO: 2024-11-15 08:16:27,850:         converter.py:   14: formatted_questions.md
+   DEBUG: 2024-11-15 08:16:27,854:      pdf_renderer.py:  470: printSegment: Medical Entrance Examination Questions
+   DEBUG: 2024-11-15 08:16:27,858:      pdf_renderer.py:  470: printSegment: Q1. Bone marrow density 2 SD below the reference level is labeled as:
+   DEBUG: 2024-11-15 08:16:27,861:      pdf_renderer.py:  470: printSegment: a. Normal level
+   DEBUG: 2024-11-15 08:16:27,864:      pdf_renderer.py:  470: printSegment: b. Low bone mass
+   DEBUG: 2024-11-15 08:16:27,866:      pdf_renderer.py:  470: printSegment: c. Osteoporosis
+   DEBUG: 2024-11-15 08:16:27,866:      pdf_renderer.py:  470: printSegment: d. Severe osteoporosis
+   DEBUG: 2024-11-15 08:16:27,868:      pdf_renderer.py:  470: printSegment: Q2. Which of the following joint is rarely involved in SLE?
+   DEBUG: 2024-11-15 08:16:27,869:      pdf_renderer.py:  470: printSegment: a. PIP joints
+   DEBUG: 2024-11-15 08:16:27,869:      pdf_renderer.py:  470: printSegment: b. Carpal joints
+   DEBUG: 2024-11-15 08:16:27,870:      pdf_renderer.py:  470: printSegment: c. Knee joints
+   DEBUG: 2024-11-15 08:16:27,871:      pdf_renderer.py:  470: printSegment: d. Sacroiliac joints
+   DEBUG: 2024-11-15 08:16:27,872:      pdf_renderer.py:  470: printSegment: Q3. The term 
+   DEBUG: 2024-11-15 08:16:27,872:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-11-15 08:16:27,873:      pdf_renderer.py:  470: printSegment: Large vessels
+   DEBUG: 2024-11-15 08:16:27,873:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-11-15 08:16:27,874:      pdf_renderer.py:  470: printSegment:  in large vessel vasculitis indicates:
+   DEBUG: 2024-11-15 08:16:27,875:      pdf_renderer.py:  470: printSegment: a. Arteries arising from arch of aorta
+   DEBUG: 2024-11-15 08:16:27,876:      pdf_renderer.py:  470: printSegment: b. Arteries directly arising from any part of aorta
+   DEBUG: 2024-11-15 08:16:27,877:      pdf_renderer.py:  470: printSegment: c. Arteries of size (diameter) more than 5 cm
+   DEBUG: 2024-11-15 08:16:27,878:      pdf_renderer.py:  470: printSegment: d. Arteries supplying the main viscera
+   DEBUG: 2024-11-15 08:16:27,879:      pdf_renderer.py:  470: printSegment: Q4. The most commonly used drug in sarcoidosis is:
+   DEBUG: 2024-11-15 08:16:27,880:      pdf_renderer.py:  470: printSegment: a. Methotrexate
+   DEBUG: 2024-11-15 08:16:27,881:      pdf_renderer.py:  470: printSegment: b. Azathioprine
+   DEBUG: 2024-11-15 08:16:27,882:      pdf_renderer.py:  470: printSegment: c. Steroid
+   DEBUG: 2024-11-15 08:16:27,882:      pdf_renderer.py:  470: printSegment: d. NSAIDS
+   DEBUG: 2024-11-15 08:16:27,983:      pdf_renderer.py:  470: printSegment: Q5. A 45 years old male presented with jaundice and ascites. On evaluation, his serum bilirubin was 2.1
+   DEBUG: 2024-11-15 08:16:28,050:      pdf_renderer.py:  470: printSegment: mg/dl, serum 5. A 45 years old male presented with jaundice and ascites. On evaluation, his serum bilirubin
+   DEBUG: 2024-11-15 08:16:28,087:      pdf_renderer.py:  470: printSegment: was 2.1 mg/dl, serum 5. A 45 years old male presented with jaundice and ascites. On evaluation, his serum
+   DEBUG: 2024-11-15 08:16:28,104:      pdf_renderer.py:  470: printSegment: bilirubin was 2.1 mg/dl, serum albumin was 3.4 g/dl, INR was 1.8,had controlled albumin was 3.4 g/dl, INR
+   DEBUG: 2024-11-15 08:16:28,108:      pdf_renderer.py:  470: printSegment: was 1.8,had controlled ascites and minimal HE. His Child Pugh class would beascites and minimal HE. His
+   DEBUG: 2024-11-15 08:16:28,109:      pdf_renderer.py:  470: printSegment: Child Pugh class would be
+   DEBUG: 2024-11-15 08:16:28,110:      pdf_renderer.py:  470: printSegment: a. A
+   DEBUG: 2024-11-15 08:16:28,111:      pdf_renderer.py:  470: printSegment: b. B
+   DEBUG: 2024-11-15 08:16:28,111:      pdf_renderer.py:  470: printSegment: c. C
+   DEBUG: 2024-11-15 08:16:28,113:      pdf_renderer.py:  470: printSegment: d. Above data are insufficient to classifyAbove data are
+   DEBUG: 2024-11-15 08:16:28,114:      pdf_renderer.py:  470: printSegment: insufficient to classify
+   DEBUG: 2024-11-15 08:16:28,115:      pdf_renderer.py:  470: printSegment: Q6. Half life of serum albumin is:
+   DEBUG: 2024-11-15 08:16:28,116:      pdf_renderer.py:  470: printSegment: a. 1-3 days
+   DEBUG: 2024-11-15 08:16:28,117:      pdf_renderer.py:  470: printSegment: b. 3-7 days
+   DEBUG: 2024-11-15 08:16:28,118:      pdf_renderer.py:  470: printSegment: c. 7-14 days
+   DEBUG: 2024-11-15 08:16:28,119:      pdf_renderer.py:  470: printSegment: d. 14-21 days
+   DEBUG: 2024-11-15 08:16:28,123:      pdf_renderer.py:  470: printSegment: Q7. Which of the following micronutrient potentiates action of insulin?7. Which of the following
+   DEBUG: 2024-11-15 08:16:28,124:      pdf_renderer.py:  470: printSegment: micronutrient potentiates action of insulin?
+   DEBUG: 2024-11-15 08:16:28,125:      pdf_renderer.py:  470: printSegment: a. Zinc
+   DEBUG: 2024-11-15 08:16:28,125:      pdf_renderer.py:  470: printSegment: b. Chromium
+   DEBUG: 2024-11-15 08:16:28,126:      pdf_renderer.py:  470: printSegment: c. Magnesium
+   DEBUG: 2024-11-15 08:16:28,127:      pdf_renderer.py:  470: printSegment: d. Calcium
+   DEBUG: 2024-11-15 08:16:28,129:      pdf_renderer.py:  470: printSegment: Q8. Magenta tongue is seen due to the deficiency of:tongue is seen due to the deficiency of:
+   DEBUG: 2024-11-15 08:16:28,130:      pdf_renderer.py:  470: printSegment: a. Thiamine
+   DEBUG: 2024-11-15 08:16:28,131:      pdf_renderer.py:  470: printSegment: b. Riboflavin
+   DEBUG: 2024-11-15 08:16:28,131:      pdf_renderer.py:  470: printSegment: c. Niacin
+   DEBUG: 2024-11-15 08:16:28,132:      pdf_renderer.py:  470: printSegment: d. Pyridoxine
+   DEBUG: 2024-11-15 08:16:28,145:      pdf_renderer.py:  470: printSegment: Q9. The score system used to estimate the risk of ischemic stroke in the first two days af9. The score system
+   DEBUG: 2024-11-15 08:16:28,146:      pdf_renderer.py:  470: printSegment: used to estimate the risk of ischemic stroke in the first two days after TIA is:ter TIA is:
+   DEBUG: 2024-11-15 08:16:28,147:      pdf_renderer.py:  470: printSegment: a. NIHSS
+   DEBUG: 2024-11-15 08:16:28,147:      pdf_renderer.py:  470: printSegment: b. CHA2DS2-VASc
+   DEBUG: 2024-11-15 08:16:28,148:      pdf_renderer.py:  470: printSegment: c. HAS-BLED
+   DEBUG: 2024-11-15 08:16:28,148:      pdf_renderer.py:  470: printSegment: d. ABCD2
+   DEBUG: 2024-11-15 08:16:28,150:      pdf_renderer.py:  470: printSegment: Q10. Diastolic murmur heard in apex in a case of aortic regurgitation is due to:
+   DEBUG: 2024-11-15 08:16:28,150:      pdf_renderer.py:  470: printSegment: a. Carey coombs murmur
+   DEBUG: 2024-11-15 08:16:28,151:      pdf_renderer.py:  470: printSegment: b. Gallavardin phenomenon
+   DEBUG: 2024-11-15 08:16:28,152:      pdf_renderer.py:  470: printSegment: c. Austin flint murmur
+   DEBUG: 2024-11-15 08:16:28,153:      pdf_renderer.py:  470: printSegment: d. Dock's murmur
+   DEBUG: 2024-11-15 08:16:28,154:      pdf_renderer.py:  470: printSegment: Q11. Which of the following electrolyte disorder causes atrioventricular block?
+   DEBUG: 2024-11-15 08:16:28,155:      pdf_renderer.py:  470: printSegment: a. Hypokalemia
+   DEBUG: 2024-11-15 08:16:28,156:      pdf_renderer.py:  470: printSegment: b. Hypernatremia
+   DEBUG: 2024-11-15 08:16:28,156:      pdf_renderer.py:  470: printSegment: c. Hypomagnesemia
+   DEBUG: 2024-11-15 08:16:28,157:      pdf_renderer.py:  470: printSegment: d. Hypermagnesemia
+   DEBUG: 2024-11-15 08:16:28,160:      pdf_renderer.py:  470: printSegment: Q12. Which of the following is not included in family of PSVT?12. Which of the following is not included in
+   DEBUG: 2024-11-15 08:16:28,161:      pdf_renderer.py:  470: printSegment: family of PSVT?
+   DEBUG: 2024-11-15 08:16:28,161:      pdf_renderer.py:  470: printSegment: a. AV node reentry
+   DEBUG: 2024-11-15 08:16:28,163:      pdf_renderer.py:  470: printSegment: b. AV node reentry using accessory pathwayAV node reentry using
+   DEBUG: 2024-11-15 08:16:28,164:      pdf_renderer.py:  470: printSegment: accessory pathway
+   DEBUG: 2024-11-15 08:16:28,165:      pdf_renderer.py:  470: printSegment: c. Atrial tachycardia
+   DEBUG: 2024-11-15 08:16:28,166:      pdf_renderer.py:  470: printSegment: d. Inappropriate sinus tachycardia
+   DEBUG: 2024-11-15 08:16:28,188:      pdf_renderer.py:  470: printSegment: Q13. What happens to blood pressure and heart rate during recovery phase of Valsalva maneuver?13. What
+   DEBUG: 2024-11-15 08:16:28,196:      pdf_renderer.py:  470: printSegment: happens to blood pressure and heart rate during recovery phase of Valsalva maneuver? 13. What happens to
+   DEBUG: 2024-11-15 08:16:28,197:      pdf_renderer.py:  470: printSegment: blood pressure and heart rate during recovery phase of Valsalva maneuver?
+   DEBUG: 2024-11-15 08:16:28,198:      pdf_renderer.py:  470: printSegment: a. ↑BP,↓HR
+   DEBUG: 2024-11-15 08:16:28,210:      pdf_renderer.py:  470: printSegment: b. ↓BP,↑HR
+   DEBUG: 2024-11-15 08:16:28,211:      pdf_renderer.py:  470: printSegment: c. Both BP and HR ↑
+   DEBUG: 2024-11-15 08:16:28,211:      pdf_renderer.py:  470: printSegment: d. Both BP and HR ↓
+   DEBUG: 2024-11-15 08:16:28,213:      pdf_renderer.py:  470: printSegment: Q14. Which of the following is not true about tetanus?14. Which of the following is not true about tetanus?
+   DEBUG: 2024-11-15 08:16:28,215:      pdf_renderer.py:  470: printSegment: a. It is completely preventable by vaccinationIt is completely
+   DEBUG: 2024-11-15 08:16:28,216:      pdf_renderer.py:  470: printSegment: preventable by vaccination
+   DEBUG: 2024-11-15 08:16:28,220:      pdf_renderer.py:  470: printSegment: b. Puncture entry wound is found in every casePuncture entry wound
+   DEBUG: 2024-11-15 08:16:28,221:      pdf_renderer.py:  470: printSegment: is found in every cases of tetanus
+   DEBUG: 2024-11-15 08:16:28,225:      pdf_renderer.py:  470: printSegment: c. Deeper infections are associated with more severe diseaseDeeper
+   DEBUG: 2024-11-15 08:16:28,226:      pdf_renderer.py:  470: printSegment: infections are associated with more severe disease
+   DEBUG: 2024-11-15 08:16:28,232:      pdf_renderer.py:  470: printSegment: d. Persons more than 60 years of age are at greater risk of
+   DEBUG: 2024-11-15 08:16:28,234:      pdf_renderer.py:  470: printSegment: tetanusPersons more than 60 years of age are at greater risk of
+   DEBUG: 2024-11-15 08:16:28,235:      pdf_renderer.py:  470: printSegment: tetanus
+   DEBUG: 2024-11-15 08:16:28,237:      pdf_renderer.py:  470: printSegment: Q15. Adult intestinal colonization botulism is associated with15. Adult intestinal colonization botulism is
+   DEBUG: 2024-11-15 08:16:28,238:      pdf_renderer.py:  470: printSegment: associated with
+   DEBUG: 2024-11-15 08:16:28,239:      pdf_renderer.py:  470: printSegment: a. Food borne
+   DEBUG: 2024-11-15 08:16:28,240:      pdf_renderer.py:  470: printSegment: b. Traumatic wound contamination
+   DEBUG: 2024-11-15 08:16:28,241:      pdf_renderer.py:  470: printSegment: c. Iatrogenic
+   DEBUG: 2024-11-15 08:16:28,241:      pdf_renderer.py:  470: printSegment: d. Antibiotic use
+   DEBUG: 2024-11-15 08:16:28,378:      pdf_renderer.py:  470: printSegment: Q16. A 9 year boy presented with the features of truncal and limb ataxia, dysarthria, myoclonic jerks,
+   DEBUG: 2024-11-15 08:16:28,476:      pdf_renderer.py:  470: printSegment: areflexia, extensor 16. A 9 year boy presented with the features of truncal and limb ataxia, dysarthria,
+   DEBUG: 2024-11-15 08:16:28,539:      pdf_renderer.py:  470: printSegment: myoclonic jerks, areflexia, extensor 16. A 9 year boy presented with the features of truncal and limb ataxia,
+   DEBUG: 2024-11-15 08:16:28,577:      pdf_renderer.py:  470: printSegment: dysarthria, myoclonic jerks, areflexia, extensor plantar response and distal sensory deficit. He had repeated
+   DEBUG: 2024-11-15 08:16:28,593:      pdf_renderer.py:  470: printSegment: history of pneuplantar response and distal sensory deficit. He had repeated history of pneumonia in the past.
+   DEBUG: 2024-11-15 08:16:28,598:      pdf_renderer.py:  470: printSegment: He also has generalized monia in the past. He also has generalized lymphadenopathy. The probable diagnosis
+   DEBUG: 2024-11-15 08:16:28,599:      pdf_renderer.py:  470: printSegment: islymphadenopathy. The probable diagnosis is
+   DEBUG: 2024-11-15 08:16:28,600:      pdf_renderer.py:  470: printSegment: a. Spinocerebellar ataxia
+   DEBUG: 2024-11-15 08:16:28,600:      pdf_renderer.py:  470: printSegment: b. Friedreich's ataxia
+   DEBUG: 2024-11-15 08:16:28,601:      pdf_renderer.py:  470: printSegment: c. Ataxia telangiectasia
+   DEBUG: 2024-11-15 08:16:28,602:      pdf_renderer.py:  470: printSegment: d. Mitochondrial ataxia
+   DEBUG: 2024-11-15 08:16:28,603:      pdf_renderer.py:  470: printSegment: Q17. The diagnosis of acromegaly is confirmed by
+   DEBUG: 2024-11-15 08:16:28,604:      pdf_renderer.py:  470: printSegment: a. Measurement of random Growth hormone level
+   DEBUG: 2024-11-15 08:16:28,605:      pdf_renderer.py:  470: printSegment: b. IGF-I level
+   DEBUG: 2024-11-15 08:16:28,606:      pdf_renderer.py:  470: printSegment: c. MRI pituitary
+   DEBUG: 2024-11-15 08:16:28,607:      pdf_renderer.py:  470: printSegment: d. Oral glucose tolerance test
+   DEBUG: 2024-11-15 08:16:28,608:      pdf_renderer.py:  470: printSegment: Q18. Differentiating the ACTH dependent Cushing
+   DEBUG: 2024-11-15 08:16:28,609:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-11-15 08:16:28,615:      pdf_renderer.py:  470: printSegment: s syndrome, which of the following feature is more
+   DEBUG: 2024-11-15 08:16:28,616:      pdf_renderer.py:  470: printSegment: prominently seen in ACTH secreting pituitary tumor as compared to ectopic ACTH secretion
+   DEBUG: 2024-11-15 08:16:28,617:      pdf_renderer.py:  470: printSegment: a. Rapid onset
+   DEBUG: 2024-11-15 08:16:28,618:      pdf_renderer.py:  470: printSegment: b. Pigmentation
+   DEBUG: 2024-11-15 08:16:28,619:      pdf_renderer.py:  470: printSegment: c. Severe myopathy
+   DEBUG: 2024-11-15 08:16:28,620:      pdf_renderer.py:  470: printSegment: d. None of the above
+   DEBUG: 2024-11-15 08:16:28,621:      pdf_renderer.py:  470: printSegment: Q19. Poor host immune reaction denotes:
+   DEBUG: 2024-11-15 08:16:28,622:      pdf_renderer.py:  470: printSegment: a. Tuberculoid leprosy
+   DEBUG: 2024-11-15 08:16:28,623:      pdf_renderer.py:  470: printSegment: b. Lepromatous leprosy
+   DEBUG: 2024-11-15 08:16:28,623:      pdf_renderer.py:  470: printSegment: c. Borderline leprosy
+   DEBUG: 2024-11-15 08:16:28,624:      pdf_renderer.py:  470: printSegment: d. Drug resistant leprosy
+   DEBUG: 2024-11-15 08:16:28,628:      pdf_renderer.py:  470: printSegment: Q20. Harmonic scalpel uses which of the following to cut tissues?20. Harmonic scalpel uses which of the
+   DEBUG: 2024-11-15 08:16:28,629:      pdf_renderer.py:  470: printSegment: following to cut tissues?
+   DEBUG: 2024-11-15 08:16:28,630:      pdf_renderer.py:  470: printSegment: a. Cold
+   DEBUG: 2024-11-15 08:16:28,630:      pdf_renderer.py:  470: printSegment: b. Heat
+   DEBUG: 2024-11-15 08:16:28,631:      pdf_renderer.py:  470: printSegment: c. Ultrasound
+   DEBUG: 2024-11-15 08:16:28,632:      pdf_renderer.py:  470: printSegment: d. Fire
+   DEBUG: 2024-11-15 08:16:28,633:      pdf_renderer.py:   53: 0, [1, 'Medical Entrance Examination Questions', 1, 68.0]
